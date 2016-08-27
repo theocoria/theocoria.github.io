@@ -63,7 +63,7 @@ me-img: "/img/profile.png"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
+color-browser: "#2c3539"
 apple-status-bar-style: "black"
 
 ################
